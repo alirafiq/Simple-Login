@@ -1,0 +1,19 @@
+{
+	"server":"localhost",
+	"server_port":"3000",
+	"db_host":"localhost",
+	"database":"testLogin",
+	"port":"27017",
+	"db_user":"",
+	"db_password":"" ,
+    "deploymentMode": "SANDBOX",
+    "SMTPAuthUser":"",
+    "SMTPAuthPwd" :"",
+    "passwordLenght" :6,
+    "EmailServiceProvider" : "",
+    "EmailOnBehalfOf" : "",
+    "email_banner":"",
+    "supportGroupToEmail": "",
+    "supportGroupCCEmail": "",
+    "subjectReservationEmail": ""
+}
