@@ -1,4 +1,11 @@
 # Simple-Login
+
+
 npm install
-modify config.json
+
+Modify config.js
+
+and run application
+
 node server.js
+
